@@ -7,10 +7,10 @@
 
 <a id="aaa"></a>
 ## File Storage App
-[File Storage App](https://github.com/abhisheksoni-iitb/Business-Analytics/tree/main/Game%20of%20Thrones)
+[File Storage App](https://github.com/abhisheksoni-iitb/Microsoft-Power-Apps/tree/main/File%20Storage%20App)
 
 
 <a id="aaa"></a>
 ## Leave Request App
-[Leave Request App](https://github.com/abhisheksoni-iitb/Business-Analytics/tree/main/SkyTransport%20Visualisation)
+[Leave Request App](https://github.com/abhisheksoni-iitb/Microsoft-Power-Apps/tree/main/Leave%20Request%20App)
 
